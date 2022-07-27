@@ -8,6 +8,7 @@ archive/**
 *.so
 
 # Distribution / packaging
+/config.py
 .Python
 build/
 develop-eggs/

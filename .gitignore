@@ -9,6 +9,7 @@ archive/**
 
 # Distribution / packaging
 /config.py
+Resources/
 .Python
 build/
 develop-eggs/
